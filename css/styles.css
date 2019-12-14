@@ -1,0 +1,38 @@
+/*********Mobile Layout*********/
+body {
+  font-size: 16px;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  width: auto;
+  margin: 0
+}
+
+p {
+  margin: 0;
+}
+
+.community {
+  display: block;
+  color: #42cbf5;
+  font-weight: 700;
+}
+
+.why {
+  display: block;
+  background: #42cbf5;
+  margin: 0 0 0 0;
+}
+
+.monthly {
+  height: 300px;
+  display: block;
+  background: hsl(179, 62%, 43%);
+  margin: 0 0 0 0;
+}
+
+.day {
+  color: #f2f542;
+}
+.gain {
+  width: 25%;
+}
