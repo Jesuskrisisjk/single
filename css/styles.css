@@ -1,38 +1,88 @@
 /*********Mobile Layout*********/
 body {
-  font-size: 16px;
+  font-size: 1rem;
   font-family: 'Karla', sans-serif;
   font-weight: 400;
   width: auto;
-  margin: 0
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+h1 {
+  padding:2rem 0 2rem 2rem;
+  font-weight: 700;
+  margin: 0;
 }
 
 p {
-  margin: 0;
+margin-left: 2rem;
+}
+
+.join {
+  display: block;
+  position: relative;
 }
 
 .community {
   display: block;
-  color: #42cbf5;
+  color: Turquoise ;
   font-weight: 700;
 }
 
 .why {
   display: block;
-  background: #42cbf5;
-  margin: 0 0 0 0;
+  background: Turquoise   ;
+  position: relative;
 }
 
 .monthly {
   height: 300px;
   display: block;
-  background: hsl(179, 62%, 43%);
+  background: DodgerBlue ;
   margin: 0 0 0 0;
 }
 
+
 .day {
-  color: #f2f542;
+  display: block;
+  color: YellowGreen ;
+  font-weight: 700;
+width: 20%;
 }
 .gain {
   width: 25%;
+  color: DodgerBlue ;
+  line-height: 2rem;
+padding-bottom: 20px;
+}
+
+.whyus {
+  color: white;
+}
+.per {
+padding: 2rem 0 0 0;
+color: DarkCyan  ;
+
+}
+.full {
+  color: white;
+}
+
+.dollar {
+  margin-left: 2rem;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 2rem 0 0 0;
+}
+
+.subscription {
+  color: white;
+}
+
+.list {
+  margin: 0;
+  padding: 0 0 0 2rem;
+  color: white;
 }
