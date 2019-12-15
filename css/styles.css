@@ -43,10 +43,14 @@ margin-left: 2rem;
 
 
 .day {
+  display: block;
+  width:80%;
   color: YellowGreen ;
   font-weight: 700;
 }
 .gain {
+  display: block;
+  width: 80%;
   color: DodgerBlue ;
   line-height: 2rem;
 padding-bottom: 20px;
