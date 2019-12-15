@@ -13,6 +13,7 @@ h1 {
   padding:2rem 0 2rem 2rem;
   font-weight: 700;
   margin: 0;
+  font-size: 1.5rem;
 }
 
 p {
@@ -44,13 +45,13 @@ margin-left: 2rem;
 
 .day {
   display: block;
-  width:80%;
+  width:60%;
   color: YellowGreen ;
   font-weight: 700;
 }
 .gain {
   display: block;
-  width: 80%;
+  width: 60%;
   color: DodgerBlue ;
   line-height: 2rem;
 padding-bottom: 20px;
