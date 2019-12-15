@@ -3,7 +3,7 @@ body {
   font-size: 1rem;
   font-family: 'Karla', sans-serif;
   font-weight: 400;
-  width: auto;
+  width: 100%;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -31,21 +31,18 @@ margin-left: 2rem;
 }
 
 .why {
-  display: block;
   background: Turquoise   ;
   position: relative;
 }
 
 .monthly {
   height: 300px;
-  display: block;
   background: DodgerBlue ;
   margin: 0 0 0 0;
 }
 
 
 .day {
-  display: block;
   color: YellowGreen ;
   font-weight: 700;
 }
@@ -83,4 +80,8 @@ color: DarkCyan  ;
   margin: 0;
   padding: 0 0 0 2rem;
   color: white;
+}
+
+.last {
+  padding-bottom: 2rem;
 }
