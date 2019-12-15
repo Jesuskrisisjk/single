@@ -45,13 +45,13 @@ margin-left: 2rem;
 
 .day {
   display: block;
-  width:50%;
+  width:20%;
   color: YellowGreen ;
   font-weight: 700;
 }
 .gain {
   display: block;
-  width: 50%;
+  width: 20%;
   color: DodgerBlue ;
   line-height: 2rem;
 padding-bottom: 20px;
